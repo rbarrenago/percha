@@ -1,0 +1,261 @@
+{
+  "generator": "Built-in ImageGen tool",
+  "purpose": "Fictional women’s product catalog for Percha store demonstrations",
+  "prompts": [
+    {
+      "id": "t01",
+      "image": "assets/products/t01.webp",
+      "prompt": "Use case: product-mockup. Create one photorealistic premium ecommerce product photograph of a plain white heavyweight cotton T-shirt, unisex, front view, laid flat naturally, realistic fabric weave and subtle folds. Entire garment centered with generous margins, warm off-white seamless background, soft studio lighting, square composition. No person, mannequin, hanger, text, labels, logos or watermark. This is a fictional fashion prototype catalog asset."
+    },
+    {
+      "id": "t03",
+      "image": "assets/products/t03.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Camiseta oversize con gráfico; color #3A3B3F. One women's garment, front view, laid flat with feminine cut and proportions. The T-shirt has a large abstract artistic non-letter graphic on its front. Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "t05",
+      "image": "assets/products/t05.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Camiseta de fútbol retro. Exact main color #1F4FA8. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t08",
+      "image": "assets/products/t08.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Top de tirantes de encaje. Exact main color #161618. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t09",
+      "image": "assets/products/t09.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Camisa Oxford azul cielo. Exact main color #A9C4E3. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t11",
+      "image": "assets/products/t11.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Blusa de gasa con lazada. Exact main color #EED0D2. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t14",
+      "image": "assets/products/t14.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Camisa con estampado paisley; color #B5651D. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "t16",
+      "image": "assets/products/t16.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Jersey de cachemir camel. Exact main color #C19A6B. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t18",
+      "image": "assets/products/t18.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Sudadera con capucha gris. Exact main color #8E9196. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t19",
+      "image": "assets/products/t19.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Jersey de cuello alto negro. Exact main color #18181A. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t21",
+      "image": "assets/products/t21.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Cárdigan de mohair lila. Exact main color #C7B3D9. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t22",
+      "image": "assets/products/t22.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Jersey de punto calado. Exact main color #E9DCC5. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "t23",
+      "image": "assets/products/t23.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Jersey rojo de lana merino. Exact main color #B3262E. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "b01",
+      "image": "assets/products/b01.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Vaquero recto azul medio. Exact main color #4F6D9A. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "b02",
+      "image": "assets/products/b02.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Pantalón de pinzas gris; color #6E6E70. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "b04",
+      "image": "assets/products/b04.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Falda midi plisada; color #A1785C. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "b07",
+      "image": "assets/products/b07.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Pantalón cargo caqui. Exact main color #77744F. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "b08",
+      "image": "assets/products/b08.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Pantalón de chándal recto. Exact main color #2C2C30. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "b09",
+      "image": "assets/products/b09.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Vaquero negro pitillo desgastado. Exact main color #232327. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "b10",
+      "image": "assets/products/b10.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Pantalón de cuero sintético. Exact main color #121212. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "b12",
+      "image": "assets/products/b12.webp",
+      "prompt": "Use case: product-mockup. Asset type: women's fashion prototype product catalog. Create one photorealistic premium ecommerce studio photograph of this women's product: Vaquero de campana. Exact main color #6C86B0. Entire item centered with generous margins in square composition on warm off-white seamless background. Women's cut and proportions. Clothing laid flat naturally, front view, believable folds and fabric texture. Shoes photographed as a matching women's pair at three-quarter angle; bags upright; belts loosely curved with visible buckle. Soft diffuse studio lighting. No person, mannequin, hanger, writing, logos, brands or watermark. One product design only."
+    },
+    {
+      "id": "o01",
+      "image": "assets/products/o01.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Abrigo de paño camel; color #C4A07A. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o02",
+      "image": "assets/products/o02.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Trench clásico; color #CDB58F. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o03",
+      "image": "assets/products/o03.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Abrigo negro estructurado; color #19191B. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o04",
+      "image": "assets/products/o04.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Plumífero corto; color #2D3036. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o09",
+      "image": "assets/products/o09.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cazadora biker de cuero; color #141416. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o10",
+      "image": "assets/products/o10.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cazadora vaquera; color #5A78A6. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o11",
+      "image": "assets/products/o11.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Blazer azul marino; color #1F2A44. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o13",
+      "image": "assets/products/o13.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Chaqueta cortavientos técnica; color #2F4F4F. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o14",
+      "image": "assets/products/o14.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Chaqueta de punto con flecos; color #B88A5A. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "o15",
+      "image": "assets/products/o15.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Blazer de terciopelo; color #4B1E3A. One women's garment, front view, laid flat with feminine cut and proportions.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f01",
+      "image": "assets/products/f01.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Mocasines de piel negros; color #1A1A1A. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f02",
+      "image": "assets/products/f02.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Salones de tacón; color #121212. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f03",
+      "image": "assets/products/f03.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bailarinas con lazo; color #E5BFC2. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f07",
+      "image": "assets/products/f07.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Botas chelsea de ante; color #7A5A3E. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f08",
+      "image": "assets/products/f08.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Botas militares de cordones; color #18181A. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f09",
+      "image": "assets/products/f09.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Botas camperas; color #8B5A2B. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f12",
+      "image": "assets/products/f12.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Zapatillas blancas de piel; color #F5F5F2. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f13",
+      "image": "assets/products/f13.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Zapatillas de terraza retro; color #2B5FAE. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "f14",
+      "image": "assets/products/f14.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Zapatillas de running técnicas; color #9AA3A8. One matching pair of women's footwear at a three-quarter angle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "g01",
+      "image": "assets/products/g01.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bolso de piel estructurado; color #6B4A33. One women's handbag standing upright.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "g03",
+      "image": "assets/products/g03.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bolso de flecos; color #A97A4E. One women's handbag standing upright.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "g04",
+      "image": "assets/products/g04.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bandolera de nailon; color #222326. One women's handbag standing upright.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "g07",
+      "image": "assets/products/g07.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bolso con tachuelas; color #161616. One women's handbag standing upright.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "g09",
+      "image": "assets/products/g09.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bolso escultórico; color #C9A227. One women's handbag standing upright.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "g10",
+      "image": "assets/products/g10.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Bolso vintage de boquilla; color #6E2A2A. One women's handbag standing upright.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "c01",
+      "image": "assets/products/c01.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cinturón de piel negro de hebilla fina; color #151515. One women's belt gently curved to show its buckle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "c03",
+      "image": "assets/products/c03.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cinturón de tachuelas; color #111113. One women's belt gently curved to show its buckle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "c05",
+      "image": "assets/products/c05.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cinturón western; color #7B4A26. One women's belt gently curved to show its buckle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "c08",
+      "image": "assets/products/c08.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cinturón de lazo de raso; color #E7C8CB. One women's belt gently curved to show its buckle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    },
+    {
+      "id": "c10",
+      "image": "assets/products/c10.webp",
+      "prompt": "Use case: product-mockup. Generate a single isolated women's fashion product photograph. The ONLY subject is: Cinturón con hebilla escultórica; color #3A3A3C. One women's belt gently curved to show its buckle.  Photorealistic fabric/material texture, soft diffuse studio light, warm off-white background. Entire product centered within generous margins, square composition. No styling props, no additional garments, no accessories besides the specified subject, no scene decoration, no person, mannequin, hanger, text, logos, brands, watermark. This image must show ONLY the specified product."
+    }
+  ]
+}

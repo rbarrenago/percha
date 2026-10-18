@@ -1,0 +1,1041 @@
+{
+  "name": "Percha Studio · colección mujer",
+  "version": 1,
+  "demo": true,
+  "notice": "Productos ficticios e imágenes generadas con IA. Precios de referencia de demostración. No disponibles para compra. Las ofertas y existencias se simulan en la aplicación.",
+  "styles": {
+    "cla": "Clásico",
+    "ele": "Elegante",
+    "cas": "Casual",
+    "rom": "Romántico",
+    "cre": "Creativo",
+    "dra": "Dramático",
+    "sex": "Seductor",
+    "stw": "Streetwear",
+    "ath": "Athleisure / Blokecore",
+    "min": "Minimalista",
+    "boh": "Boho",
+    "vin": "Vintage",
+    "roc": "Rocker"
+  },
+  "products": [
+    {
+      "id": "t01",
+      "name": "Camiseta blanca de algodón grueso",
+      "category": "camiseta",
+      "collection": "mujer",
+      "image": "assets/products/t01.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#F3F2EE",
+      "colorFamily": "neutro",
+      "referencePrice": 18,
+      "currency": "EUR",
+      "styles": {
+        "min": 0.8,
+        "cas": 0.9,
+        "stw": 0.4,
+        "cla": 0.4,
+        "roc": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t03",
+      "name": "Camiseta oversize con gráfico",
+      "category": "camiseta",
+      "collection": "mujer",
+      "image": "assets/products/t03.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#3A3B3F",
+      "colorFamily": "estampado",
+      "referencePrice": 22,
+      "currency": "EUR",
+      "styles": {
+        "stw": 1.0,
+        "roc": 0.5,
+        "cre": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t05",
+      "name": "Camiseta de fútbol retro",
+      "category": "camiseta",
+      "collection": "mujer",
+      "image": "assets/products/t05.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#1F4FA8",
+      "colorFamily": "vivo",
+      "referencePrice": 35,
+      "currency": "EUR",
+      "styles": {
+        "ath": 1.0,
+        "stw": 0.7,
+        "vin": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t08",
+      "name": "Top de tirantes de encaje",
+      "category": "camiseta",
+      "collection": "mujer",
+      "image": "assets/products/t08.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#161618",
+      "colorFamily": "neutro",
+      "referencePrice": 22,
+      "currency": "EUR",
+      "styles": {
+        "sex": 1.0,
+        "rom": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t09",
+      "name": "Camisa Oxford azul cielo",
+      "category": "camisa",
+      "collection": "mujer",
+      "image": "assets/products/t09.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#A9C4E3",
+      "colorFamily": "pastel",
+      "referencePrice": 39,
+      "currency": "EUR",
+      "styles": {
+        "cla": 1.0,
+        "min": 0.6,
+        "ele": 0.4,
+        "cas": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t11",
+      "name": "Blusa de gasa con lazada",
+      "category": "camisa",
+      "collection": "mujer",
+      "image": "assets/products/t11.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#EED0D2",
+      "colorFamily": "pastel",
+      "referencePrice": 32,
+      "currency": "EUR",
+      "styles": {
+        "rom": 1.0,
+        "ele": 0.5,
+        "vin": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t14",
+      "name": "Camisa con estampado paisley",
+      "category": "camisa",
+      "collection": "mujer",
+      "image": "assets/products/t14.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#B5651D",
+      "colorFamily": "estampado",
+      "referencePrice": 38,
+      "currency": "EUR",
+      "styles": {
+        "boh": 1.0,
+        "vin": 0.7,
+        "cre": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t16",
+      "name": "Jersey de cachemir camel",
+      "category": "jersey",
+      "collection": "mujer",
+      "image": "assets/products/t16.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#C19A6B",
+      "colorFamily": "tierra",
+      "referencePrice": 120,
+      "currency": "EUR",
+      "styles": {
+        "min": 1.0,
+        "ele": 0.7,
+        "cla": 0.6
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t18",
+      "name": "Sudadera con capucha gris",
+      "category": "jersey",
+      "collection": "mujer",
+      "image": "assets/products/t18.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#8E9196",
+      "colorFamily": "neutro",
+      "referencePrice": 39,
+      "currency": "EUR",
+      "styles": {
+        "stw": 0.9,
+        "ath": 0.8,
+        "cas": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t19",
+      "name": "Jersey de cuello alto negro",
+      "category": "jersey",
+      "collection": "mujer",
+      "image": "assets/products/t19.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#18181A",
+      "colorFamily": "neutro",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "dra": 0.8,
+        "min": 0.7,
+        "ele": 0.6,
+        "cre": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t21",
+      "name": "Cárdigan de mohair lila",
+      "category": "jersey",
+      "collection": "mujer",
+      "image": "assets/products/t21.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#C7B3D9",
+      "colorFamily": "pastel",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "rom": 0.9,
+        "cre": 0.5,
+        "vin": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t22",
+      "name": "Jersey de punto calado",
+      "category": "jersey",
+      "collection": "mujer",
+      "image": "assets/products/t22.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#E9DCC5",
+      "colorFamily": "tierra",
+      "referencePrice": 42,
+      "currency": "EUR",
+      "styles": {
+        "boh": 0.9,
+        "rom": 0.5,
+        "cas": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "t23",
+      "name": "Jersey rojo de lana merino",
+      "category": "jersey",
+      "collection": "mujer",
+      "image": "assets/products/t23.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#B3262E",
+      "colorFamily": "vivo",
+      "referencePrice": 59,
+      "currency": "EUR",
+      "styles": {
+        "cre": 0.6,
+        "dra": 0.6,
+        "cla": 0.3,
+        "sex": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b01",
+      "name": "Vaquero recto azul medio",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b01.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#4F6D9A",
+      "colorFamily": "denim",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "cas": 1.0,
+        "stw": 0.4,
+        "cla": 0.4,
+        "vin": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b02",
+      "name": "Pantalón de pinzas gris",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b02.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#6E6E70",
+      "colorFamily": "neutro",
+      "referencePrice": 49,
+      "currency": "EUR",
+      "styles": {
+        "min": 0.9,
+        "ele": 0.7,
+        "cla": 0.7
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b04",
+      "name": "Falda midi plisada",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b04.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#A1785C",
+      "colorFamily": "tierra",
+      "referencePrice": 39,
+      "currency": "EUR",
+      "styles": {
+        "rom": 0.8,
+        "ele": 0.5,
+        "vin": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b07",
+      "name": "Pantalón cargo caqui",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b07.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#77744F",
+      "colorFamily": "tierra",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "stw": 1.0,
+        "cas": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b08",
+      "name": "Pantalón de chándal recto",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b08.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#2C2C30",
+      "colorFamily": "neutro",
+      "referencePrice": 35,
+      "currency": "EUR",
+      "styles": {
+        "ath": 1.0,
+        "stw": 0.6
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b09",
+      "name": "Vaquero negro pitillo desgastado",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b09.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#232327",
+      "colorFamily": "denim",
+      "referencePrice": 40,
+      "currency": "EUR",
+      "styles": {
+        "roc": 1.0,
+        "sex": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b10",
+      "name": "Pantalón de cuero sintético",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b10.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#121212",
+      "colorFamily": "neutro",
+      "referencePrice": 55,
+      "currency": "EUR",
+      "styles": {
+        "sex": 0.8,
+        "roc": 0.7,
+        "dra": 0.7
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "b12",
+      "name": "Vaquero de campana",
+      "category": "abajo",
+      "collection": "mujer",
+      "image": "assets/products/b12.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#6C86B0",
+      "colorFamily": "denim",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "vin": 1.0,
+        "boh": 0.7
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o01",
+      "name": "Abrigo de paño camel",
+      "category": "abrigo",
+      "collection": "mujer",
+      "image": "assets/products/o01.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#C4A07A",
+      "colorFamily": "tierra",
+      "referencePrice": 129,
+      "currency": "EUR",
+      "styles": {
+        "min": 1.0,
+        "cla": 0.8,
+        "ele": 0.7
+      },
+      "length": "largo",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o02",
+      "name": "Trench clásico",
+      "category": "abrigo",
+      "collection": "mujer",
+      "image": "assets/products/o02.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#CDB58F",
+      "colorFamily": "tierra",
+      "referencePrice": 99,
+      "currency": "EUR",
+      "styles": {
+        "cla": 1.0,
+        "ele": 0.6,
+        "rom": 0.3
+      },
+      "length": "largo",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o03",
+      "name": "Abrigo negro estructurado",
+      "category": "abrigo",
+      "collection": "mujer",
+      "image": "assets/products/o03.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#19191B",
+      "colorFamily": "neutro",
+      "referencePrice": 139,
+      "currency": "EUR",
+      "styles": {
+        "dra": 1.0,
+        "ele": 0.7,
+        "min": 0.5
+      },
+      "length": "largo",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o04",
+      "name": "Plumífero corto",
+      "category": "abrigo",
+      "collection": "mujer",
+      "image": "assets/products/o04.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#2D3036",
+      "colorFamily": "neutro",
+      "referencePrice": 89,
+      "currency": "EUR",
+      "styles": {
+        "stw": 0.8,
+        "ath": 0.8,
+        "cas": 0.5
+      },
+      "length": "corto",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o09",
+      "name": "Cazadora biker de cuero",
+      "category": "chaqueta",
+      "collection": "mujer",
+      "image": "assets/products/o09.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#141416",
+      "colorFamily": "neutro",
+      "referencePrice": 99,
+      "currency": "EUR",
+      "styles": {
+        "roc": 1.0,
+        "sex": 0.6,
+        "stw": 0.4,
+        "dra": 0.4
+      },
+      "length": "corto",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o10",
+      "name": "Cazadora vaquera",
+      "category": "chaqueta",
+      "collection": "mujer",
+      "image": "assets/products/o10.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#5A78A6",
+      "colorFamily": "denim",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "cas": 0.9,
+        "vin": 0.6,
+        "roc": 0.4,
+        "stw": 0.3
+      },
+      "length": "corto",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o11",
+      "name": "Blazer azul marino",
+      "category": "chaqueta",
+      "collection": "mujer",
+      "image": "assets/products/o11.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#1F2A44",
+      "colorFamily": "neutro",
+      "referencePrice": 89,
+      "currency": "EUR",
+      "styles": {
+        "cla": 0.9,
+        "ele": 0.8,
+        "min": 0.6
+      },
+      "length": "medio",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o13",
+      "name": "Chaqueta cortavientos técnica",
+      "category": "chaqueta",
+      "collection": "mujer",
+      "image": "assets/products/o13.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#2F4F4F",
+      "colorFamily": "neutro",
+      "referencePrice": 59,
+      "currency": "EUR",
+      "styles": {
+        "ath": 1.0,
+        "cas": 0.5,
+        "stw": 0.4
+      },
+      "length": "corto",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o14",
+      "name": "Chaqueta de punto con flecos",
+      "category": "chaqueta",
+      "collection": "mujer",
+      "image": "assets/products/o14.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#B88A5A",
+      "colorFamily": "tierra",
+      "referencePrice": 55,
+      "currency": "EUR",
+      "styles": {
+        "boh": 1.0,
+        "vin": 0.4
+      },
+      "length": "medio",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "o15",
+      "name": "Blazer de terciopelo",
+      "category": "chaqueta",
+      "collection": "mujer",
+      "image": "assets/products/o15.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#4B1E3A",
+      "colorFamily": "vivo",
+      "referencePrice": 79,
+      "currency": "EUR",
+      "styles": {
+        "cre": 0.8,
+        "dra": 0.6,
+        "vin": 0.5,
+        "ele": 0.4
+      },
+      "length": "medio",
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f01",
+      "name": "Mocasines de piel negros",
+      "category": "zapatos",
+      "collection": "mujer",
+      "image": "assets/products/f01.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#1A1A1A",
+      "colorFamily": "neutro",
+      "referencePrice": 79,
+      "currency": "EUR",
+      "styles": {
+        "cla": 0.9,
+        "min": 0.8,
+        "ele": 0.5,
+        "vin": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f02",
+      "name": "Salones de tacón",
+      "category": "zapatos",
+      "collection": "mujer",
+      "image": "assets/products/f02.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#121212",
+      "colorFamily": "neutro",
+      "referencePrice": 59,
+      "currency": "EUR",
+      "styles": {
+        "sex": 1.0,
+        "ele": 0.8,
+        "dra": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f03",
+      "name": "Bailarinas con lazo",
+      "category": "zapatos",
+      "collection": "mujer",
+      "image": "assets/products/f03.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#E5BFC2",
+      "colorFamily": "pastel",
+      "referencePrice": 35,
+      "currency": "EUR",
+      "styles": {
+        "rom": 1.0,
+        "cla": 0.4,
+        "vin": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f07",
+      "name": "Botas chelsea de ante",
+      "category": "botas",
+      "collection": "mujer",
+      "image": "assets/products/f07.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#7A5A3E",
+      "colorFamily": "tierra",
+      "referencePrice": 89,
+      "currency": "EUR",
+      "styles": {
+        "cas": 0.8,
+        "cla": 0.6,
+        "boh": 0.4,
+        "min": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f08",
+      "name": "Botas militares de cordones",
+      "category": "botas",
+      "collection": "mujer",
+      "image": "assets/products/f08.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#18181A",
+      "colorFamily": "neutro",
+      "referencePrice": 99,
+      "currency": "EUR",
+      "styles": {
+        "roc": 1.0,
+        "stw": 0.6,
+        "dra": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f09",
+      "name": "Botas camperas",
+      "category": "botas",
+      "collection": "mujer",
+      "image": "assets/products/f09.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#8B5A2B",
+      "colorFamily": "tierra",
+      "referencePrice": 109,
+      "currency": "EUR",
+      "styles": {
+        "boh": 1.0,
+        "vin": 0.7,
+        "roc": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f12",
+      "name": "Zapatillas blancas de piel",
+      "category": "zapatillas",
+      "collection": "mujer",
+      "image": "assets/products/f12.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#F5F5F2",
+      "colorFamily": "neutro",
+      "referencePrice": 79,
+      "currency": "EUR",
+      "styles": {
+        "min": 0.8,
+        "cas": 0.9,
+        "stw": 0.5,
+        "cla": 0.3
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f13",
+      "name": "Zapatillas de terraza retro",
+      "category": "zapatillas",
+      "collection": "mujer",
+      "image": "assets/products/f13.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#2B5FAE",
+      "colorFamily": "vivo",
+      "referencePrice": 90,
+      "currency": "EUR",
+      "styles": {
+        "ath": 1.0,
+        "stw": 0.8,
+        "vin": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "f14",
+      "name": "Zapatillas de running técnicas",
+      "category": "zapatillas",
+      "collection": "mujer",
+      "image": "assets/products/f14.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#9AA3A8",
+      "colorFamily": "neutro",
+      "referencePrice": 110,
+      "currency": "EUR",
+      "styles": {
+        "ath": 1.0,
+        "stw": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "g01",
+      "name": "Bolso de piel estructurado",
+      "category": "bolso",
+      "collection": "mujer",
+      "image": "assets/products/g01.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#6B4A33",
+      "colorFamily": "tierra",
+      "referencePrice": 119,
+      "currency": "EUR",
+      "styles": {
+        "min": 0.9,
+        "cla": 0.8,
+        "ele": 0.7
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "g03",
+      "name": "Bolso de flecos",
+      "category": "bolso",
+      "collection": "mujer",
+      "image": "assets/products/g03.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#A97A4E",
+      "colorFamily": "tierra",
+      "referencePrice": 59,
+      "currency": "EUR",
+      "styles": {
+        "boh": 1.0,
+        "vin": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "g04",
+      "name": "Bandolera de nailon",
+      "category": "bolso",
+      "collection": "mujer",
+      "image": "assets/products/g04.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#222326",
+      "colorFamily": "neutro",
+      "referencePrice": 35,
+      "currency": "EUR",
+      "styles": {
+        "stw": 0.9,
+        "ath": 0.7,
+        "cas": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "g07",
+      "name": "Bolso con tachuelas",
+      "category": "bolso",
+      "collection": "mujer",
+      "image": "assets/products/g07.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#161616",
+      "colorFamily": "neutro",
+      "referencePrice": 59,
+      "currency": "EUR",
+      "styles": {
+        "roc": 1.0,
+        "dra": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "g09",
+      "name": "Bolso escultórico",
+      "category": "bolso",
+      "collection": "mujer",
+      "image": "assets/products/g09.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#C9A227",
+      "colorFamily": "vivo",
+      "referencePrice": 89,
+      "currency": "EUR",
+      "styles": {
+        "cre": 1.0,
+        "dra": 0.7
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "g10",
+      "name": "Bolso vintage de boquilla",
+      "category": "bolso",
+      "collection": "mujer",
+      "image": "assets/products/g10.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#6E2A2A",
+      "colorFamily": "tierra",
+      "referencePrice": 55,
+      "currency": "EUR",
+      "styles": {
+        "vin": 1.0,
+        "rom": 0.6,
+        "cla": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "c01",
+      "name": "Cinturón de piel negro de hebilla fina",
+      "category": "cinturon",
+      "collection": "mujer",
+      "image": "assets/products/c01.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#151515",
+      "colorFamily": "neutro",
+      "referencePrice": 25,
+      "currency": "EUR",
+      "styles": {
+        "min": 0.8,
+        "cla": 0.8,
+        "ele": 0.7
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "c03",
+      "name": "Cinturón de tachuelas",
+      "category": "cinturon",
+      "collection": "mujer",
+      "image": "assets/products/c03.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#111113",
+      "colorFamily": "neutro",
+      "referencePrice": 25,
+      "currency": "EUR",
+      "styles": {
+        "roc": 1.0,
+        "stw": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "c05",
+      "name": "Cinturón western",
+      "category": "cinturon",
+      "collection": "mujer",
+      "image": "assets/products/c05.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#7B4A26",
+      "colorFamily": "tierra",
+      "referencePrice": 35,
+      "currency": "EUR",
+      "styles": {
+        "boh": 0.9,
+        "vin": 0.8,
+        "roc": 0.4
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "c08",
+      "name": "Cinturón de lazo de raso",
+      "category": "cinturon",
+      "collection": "mujer",
+      "image": "assets/products/c08.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#E7C8CB",
+      "colorFamily": "pastel",
+      "referencePrice": 18,
+      "currency": "EUR",
+      "styles": {
+        "rom": 1.0
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    },
+    {
+      "id": "c10",
+      "name": "Cinturón con hebilla escultórica",
+      "category": "cinturon",
+      "collection": "mujer",
+      "image": "assets/products/c10.webp",
+      "imageOrigin": "AI-generated fictional product",
+      "color": "#3A3A3C",
+      "colorFamily": "neutro",
+      "referencePrice": 45,
+      "currency": "EUR",
+      "styles": {
+        "cre": 0.9,
+        "dra": 0.5
+      },
+      "length": null,
+      "demo": true,
+      "purchaseUrl": null
+    }
+  ]
+}

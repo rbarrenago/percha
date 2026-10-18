@@ -1,0 +1,522 @@
+[
+  [
+    "t01",
+    "camiseta",
+    "Camiseta blanca de algodón grueso",
+    "#F3F2EE",
+    "neutro",
+    "f",
+    18,
+    "min .8 cas .9 stw .4 cla .4 roc .3"
+  ],
+  [
+    "t03",
+    "camiseta",
+    "Camiseta oversize con gráfico",
+    "#3A3B3F",
+    "estampado",
+    "f",
+    22,
+    "stw 1 roc .5 cre .4"
+  ],
+  [
+    "t05",
+    "camiseta",
+    "Camiseta de fútbol retro",
+    "#1F4FA8",
+    "vivo",
+    "f",
+    35,
+    "ath 1 stw .7 vin .4"
+  ],
+  [
+    "t08",
+    "camiseta",
+    "Top de tirantes de encaje",
+    "#161618",
+    "neutro",
+    "f",
+    22,
+    "sex 1 rom .5"
+  ],
+  [
+    "t09",
+    "camisa",
+    "Camisa Oxford azul cielo",
+    "#A9C4E3",
+    "pastel",
+    "f",
+    39,
+    "cla 1 min .6 ele .4 cas .3"
+  ],
+  [
+    "t11",
+    "camisa",
+    "Blusa de gasa con lazada",
+    "#EED0D2",
+    "pastel",
+    "f",
+    32,
+    "rom 1 ele .5 vin .4"
+  ],
+  [
+    "t14",
+    "camisa",
+    "Camisa con estampado paisley",
+    "#B5651D",
+    "estampado",
+    "f",
+    38,
+    "boh 1 vin .7 cre .5"
+  ],
+  [
+    "t16",
+    "jersey",
+    "Jersey de cachemir camel",
+    "#C19A6B",
+    "tierra",
+    "f",
+    120,
+    "min 1 ele .7 cla .6"
+  ],
+  [
+    "t18",
+    "jersey",
+    "Sudadera con capucha gris",
+    "#8E9196",
+    "neutro",
+    "f",
+    39,
+    "stw .9 ath .8 cas .5"
+  ],
+  [
+    "t19",
+    "jersey",
+    "Jersey de cuello alto negro",
+    "#18181A",
+    "neutro",
+    "f",
+    45,
+    "dra .8 min .7 ele .6 cre .3"
+  ],
+  [
+    "t21",
+    "jersey",
+    "Cárdigan de mohair lila",
+    "#C7B3D9",
+    "pastel",
+    "f",
+    45,
+    "rom .9 cre .5 vin .4"
+  ],
+  [
+    "t22",
+    "jersey",
+    "Jersey de punto calado",
+    "#E9DCC5",
+    "tierra",
+    "f",
+    42,
+    "boh .9 rom .5 cas .3"
+  ],
+  [
+    "t23",
+    "jersey",
+    "Jersey rojo de lana merino",
+    "#B3262E",
+    "vivo",
+    "f",
+    59,
+    "cre .6 dra .6 cla .3 sex .3"
+  ],
+  [
+    "b01",
+    "abajo",
+    "Vaquero recto azul medio",
+    "#4F6D9A",
+    "denim",
+    "f",
+    45,
+    "cas 1 stw .4 cla .4 vin .4"
+  ],
+  [
+    "b02",
+    "abajo",
+    "Pantalón de pinzas gris",
+    "#6E6E70",
+    "neutro",
+    "f",
+    49,
+    "min .9 ele .7 cla .7"
+  ],
+  [
+    "b04",
+    "abajo",
+    "Falda midi plisada",
+    "#A1785C",
+    "tierra",
+    "f",
+    39,
+    "rom .8 ele .5 vin .5"
+  ],
+  [
+    "b07",
+    "abajo",
+    "Pantalón cargo caqui",
+    "#77744F",
+    "tierra",
+    "f",
+    45,
+    "stw 1 cas .4"
+  ],
+  [
+    "b08",
+    "abajo",
+    "Pantalón de chándal recto",
+    "#2C2C30",
+    "neutro",
+    "f",
+    35,
+    "ath 1 stw .6"
+  ],
+  [
+    "b09",
+    "abajo",
+    "Vaquero negro pitillo desgastado",
+    "#232327",
+    "denim",
+    "f",
+    40,
+    "roc 1 sex .4"
+  ],
+  [
+    "b10",
+    "abajo",
+    "Pantalón de cuero sintético",
+    "#121212",
+    "neutro",
+    "f",
+    55,
+    "sex .8 roc .7 dra .7"
+  ],
+  [
+    "b12",
+    "abajo",
+    "Vaquero de campana",
+    "#6C86B0",
+    "denim",
+    "f",
+    45,
+    "vin 1 boh .7"
+  ],
+  [
+    "o01",
+    "abrigo",
+    "Abrigo de paño camel",
+    "#C4A07A",
+    "tierra",
+    "f",
+    129,
+    "min 1 cla .8 ele .7",
+    "largo"
+  ],
+  [
+    "o02",
+    "abrigo",
+    "Trench clásico",
+    "#CDB58F",
+    "tierra",
+    "f",
+    99,
+    "cla 1 ele .6 rom .3",
+    "largo"
+  ],
+  [
+    "o03",
+    "abrigo",
+    "Abrigo negro estructurado",
+    "#19191B",
+    "neutro",
+    "f",
+    139,
+    "dra 1 ele .7 min .5",
+    "largo"
+  ],
+  [
+    "o04",
+    "abrigo",
+    "Plumífero corto",
+    "#2D3036",
+    "neutro",
+    "f",
+    89,
+    "stw .8 ath .8 cas .5",
+    "corto"
+  ],
+  [
+    "o09",
+    "chaqueta",
+    "Cazadora biker de cuero",
+    "#141416",
+    "neutro",
+    "f",
+    99,
+    "roc 1 sex .6 stw .4 dra .4",
+    "corto"
+  ],
+  [
+    "o10",
+    "chaqueta",
+    "Cazadora vaquera",
+    "#5A78A6",
+    "denim",
+    "f",
+    45,
+    "cas .9 vin .6 roc .4 stw .3",
+    "corto"
+  ],
+  [
+    "o11",
+    "chaqueta",
+    "Blazer azul marino",
+    "#1F2A44",
+    "neutro",
+    "f",
+    89,
+    "cla .9 ele .8 min .6",
+    "medio"
+  ],
+  [
+    "o13",
+    "chaqueta",
+    "Chaqueta cortavientos técnica",
+    "#2F4F4F",
+    "neutro",
+    "f",
+    59,
+    "ath 1 cas .5 stw .4",
+    "corto"
+  ],
+  [
+    "o14",
+    "chaqueta",
+    "Chaqueta de punto con flecos",
+    "#B88A5A",
+    "tierra",
+    "f",
+    55,
+    "boh 1 vin .4",
+    "medio"
+  ],
+  [
+    "o15",
+    "chaqueta",
+    "Blazer de terciopelo",
+    "#4B1E3A",
+    "vivo",
+    "f",
+    79,
+    "cre .8 dra .6 vin .5 ele .4",
+    "medio"
+  ],
+  [
+    "f01",
+    "zapatos",
+    "Mocasines de piel negros",
+    "#1A1A1A",
+    "neutro",
+    "f",
+    79,
+    "cla .9 min .8 ele .5 vin .3"
+  ],
+  [
+    "f02",
+    "zapatos",
+    "Salones de tacón",
+    "#121212",
+    "neutro",
+    "f",
+    59,
+    "sex 1 ele .8 dra .4"
+  ],
+  [
+    "f03",
+    "zapatos",
+    "Bailarinas con lazo",
+    "#E5BFC2",
+    "pastel",
+    "f",
+    35,
+    "rom 1 cla .4 vin .3"
+  ],
+  [
+    "f07",
+    "botas",
+    "Botas chelsea de ante",
+    "#7A5A3E",
+    "tierra",
+    "f",
+    89,
+    "cas .8 cla .6 boh .4 min .4"
+  ],
+  [
+    "f08",
+    "botas",
+    "Botas militares de cordones",
+    "#18181A",
+    "neutro",
+    "f",
+    99,
+    "roc 1 stw .6 dra .4"
+  ],
+  [
+    "f09",
+    "botas",
+    "Botas camperas",
+    "#8B5A2B",
+    "tierra",
+    "f",
+    109,
+    "boh 1 vin .7 roc .3"
+  ],
+  [
+    "f12",
+    "zapatillas",
+    "Zapatillas blancas de piel",
+    "#F5F5F2",
+    "neutro",
+    "f",
+    79,
+    "min .8 cas .9 stw .5 cla .3"
+  ],
+  [
+    "f13",
+    "zapatillas",
+    "Zapatillas de terraza retro",
+    "#2B5FAE",
+    "vivo",
+    "f",
+    90,
+    "ath 1 stw .8 vin .5"
+  ],
+  [
+    "f14",
+    "zapatillas",
+    "Zapatillas de running técnicas",
+    "#9AA3A8",
+    "neutro",
+    "f",
+    110,
+    "ath 1 stw .4"
+  ],
+  [
+    "g01",
+    "bolso",
+    "Bolso de piel estructurado",
+    "#6B4A33",
+    "tierra",
+    "f",
+    119,
+    "min .9 cla .8 ele .7"
+  ],
+  [
+    "g03",
+    "bolso",
+    "Bolso de flecos",
+    "#A97A4E",
+    "tierra",
+    "f",
+    59,
+    "boh 1 vin .5"
+  ],
+  [
+    "g04",
+    "bolso",
+    "Bandolera de nailon",
+    "#222326",
+    "neutro",
+    "f",
+    35,
+    "stw .9 ath .7 cas .4"
+  ],
+  [
+    "g07",
+    "bolso",
+    "Bolso con tachuelas",
+    "#161616",
+    "neutro",
+    "f",
+    59,
+    "roc 1 dra .5"
+  ],
+  [
+    "g09",
+    "bolso",
+    "Bolso escultórico",
+    "#C9A227",
+    "vivo",
+    "f",
+    89,
+    "cre 1 dra .7"
+  ],
+  [
+    "g10",
+    "bolso",
+    "Bolso vintage de boquilla",
+    "#6E2A2A",
+    "tierra",
+    "f",
+    55,
+    "vin 1 rom .6 cla .4"
+  ],
+  [
+    "c01",
+    "cinturon",
+    "Cinturón de piel negro de hebilla fina",
+    "#151515",
+    "neutro",
+    "f",
+    25,
+    "min .8 cla .8 ele .7"
+  ],
+  [
+    "c03",
+    "cinturon",
+    "Cinturón de tachuelas",
+    "#111113",
+    "neutro",
+    "f",
+    25,
+    "roc 1 stw .4"
+  ],
+  [
+    "c05",
+    "cinturon",
+    "Cinturón western",
+    "#7B4A26",
+    "tierra",
+    "f",
+    35,
+    "boh .9 vin .8 roc .4"
+  ],
+  [
+    "c08",
+    "cinturon",
+    "Cinturón de lazo de raso",
+    "#E7C8CB",
+    "pastel",
+    "f",
+    18,
+    "rom 1"
+  ],
+  [
+    "c10",
+    "cinturon",
+    "Cinturón con hebilla escultórica",
+    "#3A3A3C",
+    "neutro",
+    "f",
+    45,
+    "cre .9 dra .5"
+  ]
+]
