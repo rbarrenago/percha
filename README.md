@@ -1,6 +1,6 @@
 # Percha
 
-Prototipo de app de moda en español. A partir de tu talla, número de calzado, estatura y estilo, propone cinco combinaciones de ropa y te dice en qué tienda de España sale más barata cada prenda.
+Prototipo de app de moda en castellano. A partir de tu talla, número de calzado, estatura y estilo, propone cinco combinaciones de ropa y te dice en qué tienda de la península sale más barata cada prenda.
 
 ## Qué hace
 
