@@ -3,12 +3,17 @@
 ## Recorrido de 5 minutos
 
 1. Explica el alcance: «Esta es una demostración con productos ficticios y fotografías generadas con IA. Con vuestro catálogo, las mismas pantallas mostrarían vuestros artículos reales».
-2. Introduce un perfil: talla M, calzado 38, estatura 168 cm, Casual y Minimalista. Pulsa «Ver mis combinaciones».
-3. Muestra los cinco collages. La combinación Sorpresa demuestra que la personalización también permite descubrir estilos nuevos.
-4. Valora un conjunto con 5 y otro con 1. Abre «Cambiar» para sustituir una prenda, mostrando las alternativas y el comodín.
-5. Pulsa «Otras 5 combinaciones» para mostrar cómo las nuevas recomendaciones usan las señales recogidas.
-6. Abre «Dónde comprar». Explica que los importes, existencias y tiendas están simulados. Para una cadena con varias tiendas, esta vista podría mostrar disponibilidad por ubicación o canal, según los datos que facilite.
-7. Explora el catálogo y filtra por Romántico, Boho o Streetwear. Todas las imágenes corresponden al mismo producto conceptual que figura en cada ficha y conjunto.
+2. Abre **Tu modelo → Ver 5 looks de ejemplo**. Enseña las cinco fotografías de la misma modelo con las prendas de cada conjunto y amplía una de ellas. Estas pruebas funcionan sin servicio de IA.
+3. Para probar la personalización, introduce un perfil: talla M, calzado 38, estatura 168 cm, Casual y Minimalista. Pulsa «Ver mis combinaciones».
+4. Muestra las combinaciones. Puedes cambiar a la vista Collage; las nuevas combinaciones necesitan activar el servicio de imágenes para verse puestas sobre la modelo. La combinación Sorpresa demuestra que la personalización también permite descubrir estilos nuevos.
+5. Valora un conjunto con 5 y otro con 1. Abre «Cambiar» para sustituir una prenda, mostrando las alternativas y el comodín.
+6. Pulsa «Otras 5 combinaciones» para mostrar cómo las nuevas recomendaciones usan las señales recogidas.
+7. Abre «Dónde comprar». Explica que los importes, existencias y tiendas están simulados. Para una cadena con varias tiendas, esta vista podría mostrar disponibilidad por ubicación o canal, según los datos que facilite.
+8. Explora el catálogo y filtra por Romántico, Boho o Streetwear. Todas las imágenes corresponden al mismo producto conceptual que figura en cada ficha y conjunto.
+
+## Mostrar una foto personal
+
+La foto se carga como referencia y no se envía automáticamente. Para generar los conjuntos sobre ella hay que activar el servidor de imágenes siguiendo `TRYON-SETUP.md`, autorizar el envío a OpenAI y generar cada prueba. Si el servicio no está activado, explica esa limitación y utiliza los cinco ejemplos; la app no simula una prueba personal inexistente.
 
 ## Qué solicitar a la tienda
 

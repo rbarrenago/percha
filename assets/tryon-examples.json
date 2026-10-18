@@ -1,0 +1,221 @@
+{
+  "generator": "Built-in ImageGen tool",
+  "notice": "AI-generated outfit photographs. These illustrate only their exact listed item combinations; not a fit guarantee.",
+  "examples": [
+    {
+      "slug": "minimalista",
+      "anchor": "min",
+      "kind": "afin",
+      "items": {
+        "outer": "o01",
+        "top": "t19",
+        "bottom": "b02",
+        "feet": "f01",
+        "bag": "g01",
+        "belt": "c01"
+      },
+      "image": "assets/tryon-examples/minimalista.webp",
+      "references": [
+        "assets/models/studio-model.webp",
+        "assets/products/o01.webp",
+        "assets/products/t19.webp",
+        "assets/products/b02.webp",
+        "assets/products/f01.webp",
+        "assets/products/g01.webp",
+        "assets/products/c01.webp"
+      ],
+      "generationStages": [
+        {
+          "prompt": "Use case: identity-preserve. Image 1 is the edit target: an adult studio model. Image 2 is her outer jacket or coat; image 3 is her top; image 4 her trousers or skirt; image 5 her shoes. Create a photorealistic full-body photograph of exactly the same woman wearing all FOUR referenced clothing products. Preserve her face, identity, body proportions, skin tone, hair, camera angle and warm studio background. Replace her base tank top, leggings and bare feet. Match each reference's design, material, color, cut and details precisely. Wear the outer jacket or coat OPEN so the inner top and waist are visible. Natural garment drape, realistic shadows, believable fit. Keep her head and both shoes fully visible, portrait 2:3 framing, arms slightly away from her waist. No handbag or belt yet; no other accessories or jewelry. No text, logos, watermark, collage or inset pictures. This is the minimalista outfit.",
+          "references": [
+            "assets/models/studio-model.webp",
+            "assets/products/o01.webp",
+            "assets/products/t19.webp",
+            "assets/products/b02.webp",
+            "assets/products/f01.webp"
+          ]
+        },
+        {
+          "prompt": "Use case: identity-preserve / precise-object-edit. Image 1 is the edit target: the fully dressed adult woman. Image 2 is a handbag to add. Image 3 is a belt to add. Add only the referenced handbag and belt to her existing outfit, matching their design, color, material, size and details faithfully. She must carry the handbag naturally in one hand or on her shoulder; permit only small adjustments to the carrying hand/arm. Wear the exact referenced belt visibly around the waistband of her trousers/skirt; tuck only the front of the inner top if necessary to reveal the belt. Keep the outer coat/jacket open. Preserve EVERYTHING else: her exact face and identity, hair, skin, body proportions, all four existing clothing items and footwear, colors, fabrics, cuts, pose, lighting, background, resolution and full-body framing. No other accessories, jewelry, extra garments, changes to face/body, text, logos, watermark or collage. Output one complete photorealistic fashion photograph with full head and both shoes visible.",
+          "references": [
+            "output/tryon-stage1/minimalista.png",
+            "assets/products/g01.webp",
+            "assets/products/c01.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "casual",
+      "anchor": "cas",
+      "kind": "afin",
+      "items": {
+        "outer": "o10",
+        "top": "t01",
+        "bottom": "b01",
+        "feet": "f12",
+        "bag": "g04",
+        "belt": null
+      },
+      "image": "assets/tryon-examples/casual.webp",
+      "references": [
+        "assets/models/studio-model.webp",
+        "assets/products/o10.webp",
+        "assets/products/t01.webp",
+        "assets/products/b01.webp",
+        "assets/products/f12.webp",
+        "assets/products/g04.webp"
+      ],
+      "generationStages": [
+        {
+          "prompt": "Use case: identity-preserve. Image 1 is the edit target: an adult studio model. Image 2 is her outer jacket or coat; image 3 is her top; image 4 her trousers or skirt; image 5 her shoes. Create a photorealistic full-body photograph of exactly the same woman wearing all FOUR referenced clothing products. Preserve her face, identity, body proportions, skin tone, hair, camera angle and warm studio background. Replace her base tank top, leggings and bare feet. Match each reference's design, material, color, cut and details precisely. Wear the outer jacket or coat OPEN so the inner top and waist are visible. Natural garment drape, realistic shadows, believable fit. Keep her head and both shoes fully visible, portrait 2:3 framing, arms slightly away from her waist. No handbag or belt yet; no other accessories or jewelry. No text, logos, watermark, collage or inset pictures. This is the casual outfit.",
+          "references": [
+            "assets/models/studio-model.webp",
+            "assets/products/o10.webp",
+            "assets/products/t01.webp",
+            "assets/products/b01.webp",
+            "assets/products/f12.webp"
+          ]
+        },
+        {
+          "prompt": "Use case: identity-preserve / precise-object-edit. Image 1 is the edit target: the fully dressed adult woman. Image 2 is a handbag to add. Add only the referenced handbag to her existing outfit, matching their design, color, material, size and details faithfully. She must carry the handbag naturally in one hand or on her shoulder; permit only small adjustments to the carrying hand/arm. Do not add a belt. Preserve EVERYTHING else: her exact face and identity, hair, skin, body proportions, all four existing clothing items and footwear, colors, fabrics, cuts, pose, lighting, background, resolution and full-body framing. No other accessories, jewelry, extra garments, changes to face/body, text, logos, watermark or collage. Output one complete photorealistic fashion photograph with full head and both shoes visible.",
+          "references": [
+            "output/tryon-stage1/casual.png",
+            "assets/products/g04.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "romantico",
+      "anchor": "rom",
+      "kind": "sorpresa",
+      "items": {
+        "outer": "o02",
+        "top": "t11",
+        "bottom": "b04",
+        "feet": "f03",
+        "bag": "g10",
+        "belt": "c08"
+      },
+      "image": "assets/tryon-examples/romantico.webp",
+      "references": [
+        "assets/models/studio-model.webp",
+        "assets/products/o02.webp",
+        "assets/products/t11.webp",
+        "assets/products/b04.webp",
+        "assets/products/f03.webp",
+        "assets/products/g10.webp",
+        "assets/products/c08.webp"
+      ],
+      "generationStages": [
+        {
+          "prompt": "Use case: identity-preserve. Image 1 is the edit target: an adult studio model. Image 2 is her outer jacket or coat; image 3 is her top; image 4 her trousers or skirt; image 5 her shoes. Create a photorealistic full-body photograph of exactly the same woman wearing all FOUR referenced clothing products. Preserve her face, identity, body proportions, skin tone, hair, camera angle and warm studio background. Replace her base tank top, leggings and bare feet. Match each reference's design, material, color, cut and details precisely. Wear the outer jacket or coat OPEN so the inner top and waist are visible. Natural garment drape, realistic shadows, believable fit. Keep her head and both shoes fully visible, portrait 2:3 framing, arms slightly away from her waist. No handbag or belt yet; no other accessories or jewelry. No text, logos, watermark, collage or inset pictures. This is the romantico outfit.",
+          "references": [
+            "assets/models/studio-model.webp",
+            "assets/products/o02.webp",
+            "assets/products/t11.webp",
+            "assets/products/b04.webp",
+            "assets/products/f03.webp"
+          ]
+        },
+        {
+          "prompt": "Use case: identity-preserve / precise-object-edit. Image 1 is the edit target: the fully dressed adult woman. Image 2 is a handbag to add. Image 3 is a belt to add. Add only the referenced handbag and belt to her existing outfit, matching their design, color, material, size and details faithfully. She must carry the handbag naturally in one hand or on her shoulder; permit only small adjustments to the carrying hand/arm. Wear the exact referenced belt visibly around the waistband of her trousers/skirt; tuck only the front of the inner top if necessary to reveal the belt. Keep the outer coat/jacket open. Preserve EVERYTHING else: her exact face and identity, hair, skin, body proportions, all four existing clothing items and footwear, colors, fabrics, cuts, pose, lighting, background, resolution and full-body framing. No other accessories, jewelry, extra garments, changes to face/body, text, logos, watermark or collage. Output one complete photorealistic fashion photograph with full head and both shoes visible.",
+          "references": [
+            "output/tryon-stage1/romantico.png",
+            "assets/products/g10.webp",
+            "assets/products/c08.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "streetwear",
+      "anchor": "stw",
+      "kind": "afin",
+      "items": {
+        "outer": "o04",
+        "top": "t18",
+        "bottom": "b07",
+        "feet": "f13",
+        "bag": "g04",
+        "belt": null
+      },
+      "image": "assets/tryon-examples/streetwear.webp",
+      "references": [
+        "assets/models/studio-model.webp",
+        "assets/products/o04.webp",
+        "assets/products/t18.webp",
+        "assets/products/b07.webp",
+        "assets/products/f13.webp",
+        "assets/products/g04.webp"
+      ],
+      "generationStages": [
+        {
+          "prompt": "Use case: identity-preserve. Image 1 is the edit target: an adult studio model. Image 2 is her outer jacket or coat; image 3 is her top; image 4 her trousers or skirt; image 5 her shoes. Create a photorealistic full-body photograph of exactly the same woman wearing all FOUR referenced clothing products. Preserve her face, identity, body proportions, skin tone, hair, camera angle and warm studio background. Replace her base tank top, leggings and bare feet. Match each reference's design, material, color, cut and details precisely. Wear the outer jacket or coat OPEN so the inner top and waist are visible. Natural garment drape, realistic shadows, believable fit. Keep her head and both shoes fully visible, portrait 2:3 framing, arms slightly away from her waist. No handbag or belt yet; no other accessories or jewelry. No text, logos, watermark, collage or inset pictures. This is the streetwear outfit.",
+          "references": [
+            "assets/models/studio-model.webp",
+            "assets/products/o04.webp",
+            "assets/products/t18.webp",
+            "assets/products/b07.webp",
+            "assets/products/f13.webp"
+          ]
+        },
+        {
+          "prompt": "Use case: identity-preserve / precise-object-edit. Image 1 is the edit target: the fully dressed adult woman. Image 2 is a handbag to add. Add only the referenced handbag to her existing outfit, matching their design, color, material, size and details faithfully. She must carry the handbag naturally in one hand or on her shoulder; permit only small adjustments to the carrying hand/arm. Do not add a belt. Preserve EVERYTHING else: her exact face and identity, hair, skin, body proportions, all four existing clothing items and footwear, colors, fabrics, cuts, pose, lighting, background, resolution and full-body framing. No other accessories, jewelry, extra garments, changes to face/body, text, logos, watermark or collage. Output one complete photorealistic fashion photograph with full head and both shoes visible.",
+          "references": [
+            "output/tryon-stage1/streetwear.png",
+            "assets/products/g04.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "boho",
+      "anchor": "boh",
+      "kind": "afin",
+      "items": {
+        "outer": "o14",
+        "top": "t22",
+        "bottom": "b12",
+        "feet": "f09",
+        "bag": "g03",
+        "belt": "c05"
+      },
+      "image": "assets/tryon-examples/boho.webp",
+      "references": [
+        "assets/models/studio-model.webp",
+        "assets/products/o14.webp",
+        "assets/products/t22.webp",
+        "assets/products/b12.webp",
+        "assets/products/f09.webp",
+        "assets/products/g03.webp",
+        "assets/products/c05.webp"
+      ],
+      "generationStages": [
+        {
+          "prompt": "Use case: identity-preserve. Image 1 is the edit target: an adult studio model. Image 2 is her outer jacket or coat; image 3 is her top; image 4 her trousers or skirt; image 5 her shoes. Create a photorealistic full-body photograph of exactly the same woman wearing all FOUR referenced clothing products. Preserve her face, identity, body proportions, skin tone, hair, camera angle and warm studio background. Replace her base tank top, leggings and bare feet. Match each reference's design, material, color, cut and details precisely. Wear the outer jacket or coat OPEN so the inner top and waist are visible. Natural garment drape, realistic shadows, believable fit. Keep her head and both shoes fully visible, portrait 2:3 framing, arms slightly away from her waist. No handbag or belt yet; no other accessories or jewelry. No text, logos, watermark, collage or inset pictures. This is the boho outfit.",
+          "references": [
+            "assets/models/studio-model.webp",
+            "assets/products/o14.webp",
+            "assets/products/t22.webp",
+            "assets/products/b12.webp",
+            "assets/products/f09.webp"
+          ]
+        },
+        {
+          "prompt": "Use case: identity-preserve / precise-object-edit. Image 1 is the edit target: the fully dressed adult woman. Image 2 is a handbag to add. Image 3 is a belt to add. Add only the referenced handbag and belt to her existing outfit, matching their design, color, material, size and details faithfully. She must carry the handbag naturally in one hand or on her shoulder; permit only small adjustments to the carrying hand/arm. Wear the exact referenced belt visibly around the waistband of her trousers/skirt; tuck only the front of the inner top if necessary to reveal the belt. Keep the outer coat/jacket open. Preserve EVERYTHING else: her exact face and identity, hair, skin, body proportions, all four existing clothing items and footwear, colors, fabrics, cuts, pose, lighting, background, resolution and full-body framing. No other accessories, jewelry, extra garments, changes to face/body, text, logos, watermark or collage. Output one complete photorealistic fashion photograph with full head and both shoes visible.",
+          "references": [
+            "output/tryon-stage1/boho.png",
+            "assets/products/g03.webp",
+            "assets/products/c05.webp"
+          ]
+        }
+      ]
+    }
+  ],
+  "model": {
+    "image": "assets/models/studio-model.webp",
+    "prompt": "Use case: photorealistic-natural. Asset type: default adult female model photograph for a women's fashion virtual fitting prototype. One adult woman around 30 years old, medium build, natural realistic proportions and skin texture, dark brown shoulder-length hair neatly tucked behind shoulders, calm friendly expression. Full body, straight front view, standing upright with feet slightly apart and parallel, arms hanging slightly away from waist and hips so clothing can be visualized clearly. Wearing a plain close-fitting light warm-gray sleeveless athletic tank top and charcoal fitted ankle-length leggings, barefoot. Seamless warm off-white studio background and floor, soft diffuse light, no dramatic shadows. Entire head and both feet fully visible with generous margins, centered, portrait 2:3 composition. One person only. No objects, jewelry, bag, text, branding or watermark. This must look like a professional studio photograph, not a drawing."
+  }
+}
